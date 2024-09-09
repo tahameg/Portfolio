@@ -1,8 +1,5 @@
 # Portfolio: Game Development / XR Development
 
-Context: Born Aviation
-Created time: July 20, 2024 6:09 PM
-
 ## 1. Project: Missing
 
 Missing is a VR game I contributed to during my time at Born. It is a puzzle-solving, mystery, and adventure game that tells the poignant story of a lady with dementia trying to find her way. The game combines immersive storytelling with challenging puzzles, providing a unique and engaging experience for players.

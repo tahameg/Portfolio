@@ -18,5 +18,5 @@ Hi, I am Taha Mert Gökdemir and this is my software engineer portfolio.  Please
 Email: taha.m.gokdemir@gmail.com
 
 # Index
-**C/C++** [C/C++ Development / Systems Development
+💾 [C/C++ Development / Linux Systems Development](C_System_Dev.md)</br>
 🥽 [Game Development / XR Development](Portfolio_VR_GameDev.md)
