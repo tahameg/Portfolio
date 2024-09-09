@@ -11,12 +11,12 @@ Hi, I am Taha Mert Gökdemir and this is my software engineer portfolio.  Please
 
 [**github**](https://github.com/tahameg) 
 
-[**CV**](https://drive.google.com/drive/folders/1CmfNM7IvDLmqvHhoCL6O_CuT5J9Pst9a?usp=drive_link)
+[**CV**](https://github.com/tahameg/TahaMertGokdemirCV.git)
 
 ### Contact
 
 Email: taha.m.gokdemir@gmail.com
 
 # Index
-
+**C/C++** [C/C++ Development / Systems Development
 🥽 [Game Development / XR Development](Portfolio_VR_GameDev.md)
