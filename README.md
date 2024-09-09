@@ -1,5 +1,7 @@
 
-<img src="Media/Portrait.png" alt="drawing" width="200"/></br>
+<p align="center">
+  <img src="./Media/Portrait.png"  width="200px"/>
+</p>
 
 Hi, I am Taha Mert Gökdemir and this is my software engineer portfolio.  Please checkout.
 
